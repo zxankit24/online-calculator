@@ -27,7 +27,7 @@ The calculator has a sleek design with large buttons for easy interaction. It pr
 
 ## Try It Out
 
-You can try out this calculator by [clicking here]([(https://zxankit24.github.io/online-calculator/)]).
+You can try out this calculator by [clicking here](https://zxankit24.github.io/online-calculator/).
 
 ## Features
 
