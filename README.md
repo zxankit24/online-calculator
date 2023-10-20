@@ -7,7 +7,6 @@ This is a online simple calculator. It allows you to perform basic arithmetic op
 ![Calculator Image](calculator-image.png)
 
 ## How to Use
-
 1. Input your calculation in the display field.
 2. Click the buttons to enter numbers and operators.
 3. Use the "=" button to calculate the result.
