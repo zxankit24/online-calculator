@@ -4,7 +4,7 @@
 
 This is a online simple calculator. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-![Calculator Image](calculator-image.png)
+![Calculator Image](calculator-image.png) 
 
 ## How to Use
 1. Input your calculation in the display field.
