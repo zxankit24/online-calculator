@@ -8,7 +8,7 @@ This is a online simple calculator. It allows you to perform basic arithmetic op
 
 ## How to Use
 1. Input your calculation in the display field.
-2. Click the buttons to enter numbers and operators.
+2. Click the buttons to enter numbers and operators.  
 3. Use the "=" button to calculate the result.
 4. If you make a mistake, you can use the backspace (←) button to correct your input.
 5. Click the "C" button to clear the display.
